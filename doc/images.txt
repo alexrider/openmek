@@ -1,0 +1,16 @@
+== Sizes ==
+Opponent_mon - 60x60
+Your_mon - 80x80
+Trainer_big - 80x80
+
+
+== Style ==
+Images should be done in a 16-bit quasi-pokemon style.
+
+== Needs replacement! ==
+casa.png
+hq.png
+hq2.png
+
+http://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms
+http://en.wikipedia.org/wiki/Timeline_of_computer_security_hacker_history
